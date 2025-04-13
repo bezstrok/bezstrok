@@ -36,23 +36,28 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=transparent&bg_color=00000000">
+            srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=github_dark&bg_color=00000000">
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=transparent&bg_color=00000000">
-        <img height="50%" alt="GitHub Stats">
+        <img height="50%"
+            src="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=github_dark&bg_color=00000000"
+            alt="GitHub Stats">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)"
             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&theme=github_dark&layout=normal&hide_border=true&langs_count=6&bg_color=00000000">
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&theme=transparent&layout=normal&hide_border=true&langs_count=6&bg_color=00000000">
-        <img height="50%" alt="Top Languages">
+        <img height="50%"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&theme=github_dark&layout=normal&hide_border=true&langs_count=6&bg_color=00000000"
+            alt="Top Languages">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)"
             srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=github-dark-blue&hide_border=true&background=00000000">
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=transparent&hide_border=true&background=00000000">
-        <img alt="Streak Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=github-dark-blue&hide_border=true&background=00000000"
+            alt="Streak Stats">
     </picture>
 </p>
