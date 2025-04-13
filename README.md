@@ -36,10 +36,10 @@
 <p align="center">
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=Raymo111&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=github_dark&bg_color=00000000"
+            srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=github_dark&bg_color=00000000"
             media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-stats.vercel.app/api?username=Raymo111&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=transparent&show_icons=true&bg_color=00000000"
+            srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=transparent&show_icons=true&bg_color=00000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img height="50%" alt="GitHub Stats" />
     </picture>
