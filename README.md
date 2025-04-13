@@ -21,17 +21,17 @@
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&theme=default&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&theme=moltack&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000" alt="GitHub Stats" />
   </picture>
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&theme=github_dark&langs_count=6&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&theme=default&layout=normal&hide_border=true&langs_count=6&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&theme=moltack&layout=normal&hide_border=true&langs_count=6&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&langs_count=6&bg_color=00000000" alt="Top Languages" />
   </picture>
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=github-dark-blue&hide_border=true&background=00000000" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=meta-light&hide_border=true&background=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=moltack&hide_border=true&background=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&hide_border=true&background=00000000" alt="Streak Stats" />
   </picture>
 </p>
