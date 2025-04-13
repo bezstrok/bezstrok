@@ -36,7 +36,7 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=vue-dark&bg_color=00000000">
+            srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=transparent&bg_color=00000000">
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=transparent&bg_color=00000000">
         <img height="50%" alt="GitHub Stats">
