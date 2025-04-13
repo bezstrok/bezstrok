@@ -19,10 +19,19 @@
 <hr>
 
 <p align="center">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000#gh-dark-mode-only">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=bezstrok&theme=shadow_blue&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000#gh-light-mode-only">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&theme=dracula&langs_count=6&bg_color=00000000#gh-dark-mode-only">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&theme=shadow_blue&layout=normal&hide_border=true&langs_count=6&bg_color=00000000#gh-light-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=dracula&hide_border=true&background=00000000#gh-dark-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=shadow_blue&hide_border=true&background=00000000#gh-light-mode-only">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&theme=shadow_blue&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=bezstrok&theme=shadow_blue&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&theme=dracula&langs_count=6&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&theme=shadow_blue&layout=normal&hide_border=true&langs_count=6&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&theme=shadow_blue&layout=normal&hide_border=true&langs_count=6&bg_color=00000000" alt="Top Languages" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=dracula&hide_border=true&background=00000000" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=shadow_blue&hide_border=true&background=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=shadow_blue&hide_border=true&background=00000000" alt="Streak Stats" />
+  </picture>
 </p>
