@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Informational?style=flat&logo=python&logoColor=white&color=3776AB">
   <img src="https://img.shields.io/badge/Go-Informational?style=flat&logo=go&logoColor=white&color=00ADD8">
   <img src="https://img.shields.io/badge/JavaScript-Informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E">
@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Express-Informational?style=flat&logo=express&logoColor=white&color=000000">
   <img src="https://img.shields.io/badge/Fastify-Informational?style=flat&logo=fastify&logoColor=white&color=000000">
   <img src="https://img.shields.io/badge/Gin-Informational?style=flat&logo=gin&logoColor=white&color=00ADD8">
-</div>
+</p>
 
-<div align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&theme=dracula&langs_count=6&bg_color=00000000">
+<p align="center">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&theme=dracula&langs_count=6&bg_color=00000000">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=dracula&hide_border=true&background=00000000">
-</div>
+</p>
