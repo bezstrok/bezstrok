@@ -36,10 +36,10 @@
 <p align="center">
     <picture>
         <source
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bezstrok&theme=github-dark&hide_border=true&days=30&custom_title=Activity&area=true&bg_color=00000000"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bezstrok&theme=github-dark-dimmed&hide_border=true&days=30&hide_title=true&area=true&bg_color=00000000"
             media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bezstrok&theme=github-dark&hide_border=true&days=30&custom_title=Activity&area=true&bg_color=00000000"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bezstrok&theme=github-dark&hide_border=true&days=30&hide_title=true&area=true&bg_color=00000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img alt="Streak Stats" />
     </picture>
