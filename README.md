@@ -21,11 +21,11 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&theme=github_dark&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=swift&number_format=short&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&theme=transparent&number_format=short&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
@@ -40,7 +40,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&theme=swift&langs_count=6&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&theme=transparent&langs_count=6&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
@@ -55,7 +55,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=swift&hide_border=true&background=00000000"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=transparent&hide_border=true&background=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
