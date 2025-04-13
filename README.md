@@ -43,6 +43,9 @@
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img alt="Streak Stats" />
     </picture>
+</p>
+<hr>
+<p align="center">
     <picture>
         <source
             srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=holi-theme&hide_border=true&background=00000000"
