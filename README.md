@@ -36,18 +36,19 @@
 <p align="center">
     <picture>
         <source
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=meta-light&hide_border=true&date_format=[Y.]n.j&background=00000000"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bezstrok&theme=github-dark&hide_border=true&days=30&custom_title=Activity&area=true&bg_color=00000000"
             media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=meta-light&hide_border=true&date_format=[Y.]n.j&background=00000000"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bezstrok&theme=github-dark&hide_border=true&days=30&custom_title=Activity&area=true&bg_color=00000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img alt="Streak Stats" />
     </picture>
     <picture>
-        <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=bezstrok&theme=dracula"
+        <source
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=holi-theme&hide_border=true&background=00000000"
             media="(prefers-color-scheme: dark)" />
         <source
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=bezstrok&theme=github-dark-dimmed&hide_border=true&days=30&custom_title=Activity&bg_color=00000000"
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=meta-light&hide_border=true&background=00000000"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img alt="Streak Stats" />
     </picture>
