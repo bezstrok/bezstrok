@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Informational?style=flat&logo=python&logoColor=white&color=3776AB">
+  <img src="https://img.shields.io/badge/Go-Informational?style=flat&logo=go&logoColor=white&color=00ADD8">
+  <img src="https://img.shields.io/badge/JavaScript-Informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-Informational?style=flat&logo=typescript&logoColor=white&color=3178C6">
+  <img src="https://img.shields.io/badge/PostgreSQL-Informational?style=flat&logo=postgresql&logoColor=white&color=4169E1">
+  <img src="https://img.shields.io/badge/MySQL-Informational?style=flat&logo=mysql&logoColor=white&color=4479A1">
+  <img src="https://img.shields.io/badge/SQLite-Informational?style=flat&logo=sqlite&logoColor=white&color=003B57">
+  <img src="https://img.shields.io/badge/Redis-Informational?style=flat&logo=redis&logoColor=white&color=DC382D">
+  <img src="https://img.shields.io/badge/MongoDB-Informational?style=flat&logo=mongodb&logoColor=white&color=4DB33D">
+  <img src="https://img.shields.io/badge/Django-Informational?style=flat&logo=django&logoColor=white&color=092E20">
+  <img src="https://img.shields.io/badge/FastAPI-Informational?style=flat&logo=fastapi&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/Flask-Informational?style=flat&logo=flask&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/Express-Informational?style=flat&logo=express&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/Fastify-Informational?style=flat&logo=fastify&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/Gin-Informational?style=flat&logo=gin&logoColor=white&color=00ADD8">
+</div>
 
-<!--
-**bezstrok/bezstrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=bezstrok&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true&hide=issues,contribs&rank_icon=github&number_format=short&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezstrok&layout=normal&hide_border=true&theme=dracula&langs_count=6&bg_color=00000000">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bezstrok&theme=dracula&hide_border=true&background=00000000">
+</div>
