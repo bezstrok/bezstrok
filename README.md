@@ -53,6 +53,10 @@
         alt="LangChain Badge" />
     <img src="https://img.shields.io/badge/Pandas-Informational?style=flat&logo=pandas&logoColor=white&color=150458"
         alt="Pandas Badge" />
+    <img src="https://img.shields.io/badge/Miro-Informational?style=flat&logo=miro&logoColor=black&color=FFD02F"
+        alt="Miro Badge" />
+    <img src="https://img.shields.io/badge/Notion-Informational?style=flat&logo=notion&logoColor=white&color=000000"
+        alt="Notion Badge" />
 </p>
 
 <hr>
