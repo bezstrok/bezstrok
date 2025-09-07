@@ -29,6 +29,12 @@
         alt="Fastify Badge" />
     <img src="https://img.shields.io/badge/Gin-Informational?style=flat&logo=gin&logoColor=white&color=00ADD8"
         alt="Gin Badge" />
+    <img src="https://img.shields.io/badge/C%23-Informational?style=flat&logo=c-sharp&logoColor=white&color=239120"
+        alt="C# Badge" />
+    <img src="https://img.shields.io/badge/.NET-Informational?style=flat&logo=.net&logoColor=white&color=512BD4"
+        alt=".NET Badge" />
+    <img src="https://img.shields.io/badge/Hot%20Chocolate-Informational?style=flat&logo=graphql&logoColor=white&color=E10098"
+        alt="Hot Chocolate Badge" />
 </p>
 
 <hr>
