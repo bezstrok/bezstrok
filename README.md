@@ -35,6 +35,24 @@
         alt=".NET Badge" />
     <img src="https://img.shields.io/badge/Hot%20Chocolate-Informational?style=flat&logo=graphql&logoColor=white&color=E10098"
         alt="Hot Chocolate Badge" />
+    <img src="https://img.shields.io/badge/Spark-Informational?style=flat&logo=apachespark&logoColor=white&color=E25A1C"
+        alt="Apache Spark Badge" />
+    <img src="https://img.shields.io/badge/Airflow-Informational?style=flat&logo=apacheairflow&logoColor=white&color=017CEE"
+        alt="Apache Airflow Badge" />
+    <img src="https://img.shields.io/badge/Kafka-Informational?style=flat&logo=apachekafka&logoColor=white&color=231F20"
+        alt="Apache Kafka Badge" />
+    <img src="https://img.shields.io/badge/Hadoop-Informational?style=flat&logo=apachehadoop&logoColor=black&color=FFCC00"
+        alt="Hadoop Badge" />
+    <img src="https://img.shields.io/badge/dbt-Informational?style=flat&logo=dbt&logoColor=white&color=FF694B"
+        alt="dbt Badge" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-Informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927"
+        alt="Microsoft SQL Server Badge" />
+    <img src="https://img.shields.io/badge/n8n-Informational?style=flat&logo=n8n&logoColor=white&color=E02041"
+        alt="n8n Badge" />
+    <img src="https://img.shields.io/badge/LangChain-Informational?style=flat&logo=chainlink&logoColor=white&color=1C3C3C"
+        alt="LangChain Badge" />
+    <img src="https://img.shields.io/badge/Pandas-Informational?style=flat&logo=pandas&logoColor=white&color=150458"
+        alt="Pandas Badge" />
 </p>
 
 <hr>
